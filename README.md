@@ -1,10 +1,17 @@
 # Real-Time-Data-Denver
 
 
-Data Engineering Project 
+Data Engineering and Analytics Project 
 
 - To Do 
   - Decide what tools to use
+    - For Data Engineering
+    - For Analytics
+      - For geo spatial viz, we can use kepler.gl
+      - Dash
+     - For building ML models
+      - h2o.ai
+      - autoML
   - What we want to look for in the data
   - What models we want to build 
     - Add Weather data
