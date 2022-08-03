@@ -4,6 +4,12 @@
 Data Engineering and Analytics Project 
 
 - To Do 
+
+- Data Ingestion
+- Data Storage
+- Data Visualization
+- Modeling
+
   - Decide what tools to use
     - For Data Engineering
     - For Analytics
