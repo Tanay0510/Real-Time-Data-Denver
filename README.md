@@ -3,6 +3,7 @@
 
 Data Engineering and Analytics Project 
 
+To Complicated, will have to think of something easier
 - To Do 
 
 - Data Ingestion
