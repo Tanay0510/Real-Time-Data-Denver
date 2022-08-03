@@ -18,6 +18,7 @@
 - vehicle. Included if vehicle entity is provided. See vehicle below.
 
 **Alert**
+
 - active_period
   - start
   - end (optional)
