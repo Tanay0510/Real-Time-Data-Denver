@@ -1,5 +1,15 @@
 # Real-Time-Data-Denver
 
+
+Data Engineering Project 
+
+- To Do 
+  - Decide what tools to use
+  - What we want to look for in the data
+  - What models we want to build 
+    - Add Weather data
+    - Add Forest Fire Data
+   
 #### Data Source - https://www.rtd-denver.com/business-center/open-data/gtfs-developer-guide
 
 #### The GTFS-realtime feeds have the following format:
