@@ -19,6 +19,10 @@ Data Engineering and Analytics Project
    
 #### Data Source - https://www.rtd-denver.com/business-center/open-data/gtfs-developer-guide
 
+#### Important Links 
+  - https://developers.google.com/transit/gtfs-realtime/
+  - https://groups.google.com/forum/#!forum/rtd-developers
+
 #### The GTFS-realtime feeds have the following format:
 
 **Header**
