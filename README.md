@@ -2,9 +2,9 @@
 
 ## https://pypi.org/project/gbfs-client/
 
-Data Engineering/Analytics/ML Project 
+#### Data Engineering/Analytics/ML Project 
 
-To Do -
+##### To Do -
 
 #### Use data feed (Lyft and Spin)
 #### This will be the Kafka Producer
